@@ -1,0 +1,1 @@
+Put me into ~/Library/Developer/Xcode/Templates
